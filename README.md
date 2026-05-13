@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<h1 align="center" class="heading-element" dir="auto">Hi there, I'm <a href="https://www.blackcater.win/" rel="nofollow">Elon Tang</a> <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJzcnk1YXV5ZmljOGRxdG81eXh2MGFoamRqem9mNG05dGlmcDI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QdYVeDStxnrvfpmvef/giphy.gif alt="Workspace" width="60%"/><br>
 
