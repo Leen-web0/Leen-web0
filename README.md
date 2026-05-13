@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJzcnk1YXV5ZmljOGRxdG81eXh2MGFoamRqem9mNG05dGlmcDI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QdYVeDStxnrvfpmvef/giphy.gif alt="Workspace" width="40%"/><br>
+<img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJzcnk1YXV5ZmljOGRxdG81eXh2MGFoamRqem9mNG05dGlmcDI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QdYVeDStxnrvfpmvef/giphy.gif alt="Workspace" width="60%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Leen-web0&style=flat&color=green&label=PROFILE+VIEWS)
 
