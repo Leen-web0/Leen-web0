@@ -4,7 +4,6 @@
 
 <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmswODRtZnN0ZzJid2Q0ejFjbzExYWs3bjUzMXh2djhvZmN2ODFqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif width="30%"/><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Leen-web0&style=flat&color=green&label=PROFILE+VIEWS)
 
 </div>
 
