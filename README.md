@@ -43,7 +43,8 @@ class About extends Me {
 
 ---
 <div align="center">
-## ✦ my interests ☆
+  
+## ✦ my interests ☆ 
 
 | 💻 Tech | 📊 Data | 🎨 Design |
 |---|---|---|
