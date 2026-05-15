@@ -74,8 +74,7 @@ class About extends Me {
 
 </td>
 <td valign="top" width="50%">
-<img src="<img width="800" height="600" alt="download" src="https://github.com/user-attachments/assets/e0c4301f-ea9d-456a-9e29-08d7304abb1b" />
-" width="100%"/>
+<img src="download.gif" width="100%"/>
 </td>
 </tr>
 </table>
