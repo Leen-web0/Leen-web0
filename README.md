@@ -52,32 +52,43 @@
 🔗 **LinkedIn:** [Leen-Dighriri](https://www.linkedin.com/in/Leen-Dighriri)
 
 ---
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
 
 ```dart
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-```dart
 class About extends Me { 
+
   const myInfo = {  
+
     "Name"       : "Leen Abdulaziz Dighriri",
+
     "University" : "Jazan University — MIS Graduate 2025",
+
     "Skills"     : { "HTML5", "CSS3", "SQL", "Power BI", "Excel", "Web Design", "Systems Analysis" },
+
     "Interests"  : { "Data Analysis", "Web Design", "Front-End Development", "Project Management" },
+
     "Languages"  : { "Arabic", "English" },
+
     "Goal"       : "Growing in a professional tech environment"
+
   };
+
 }
+
 ```
 
-</td>
-<td valign="top" width="50%">
+</div>
+
+<div style="flex: 1;">
+
 <img src="download.gif" width="100%"/>
-</td>
-</tr>
-</table>
+
+</div>
+
+</div>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; Currently expanding my skills in **Data Analysis & Front-End Development**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>&nbsp;&nbsp; Ask me about **MIS, Web Design, or Data Analysis**
