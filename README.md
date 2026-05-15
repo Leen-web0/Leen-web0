@@ -81,7 +81,7 @@ class About extends Me {
 <div align="center">
 
 ✦ · · · Leen Dighriri — MIS 2025 🌿 · · · ✦
-<img src="Thanks for stopping by." alt="Workspace" width="60%"/>
+<img src="Thanks for stopping by..png" alt="Workspace" width="60%"/>
 
 </div>
 </div>
