@@ -2,8 +2,7 @@
 
 # Hi, I'm Leen 👋
 
-<img src=https://www.capsule-official.com/post/リマスター音源配信第9弾・アルバム『l-d-k-lounge-designers-killer-2021-remaster-』をリリース alt="Workspace" width="40%"/><br>
-
+<img src="https://i.pinimg.com/originals/71/81/f3/7181f32283146af7052e54946aaec210.gif" alt="Workspace" width="60%"/><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Leen-web0&style=flat&color=green&label=PROFILE+VIEWS)
 
 </div>
