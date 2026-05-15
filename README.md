@@ -52,7 +52,7 @@
 🔗 **LinkedIn:** [Leen-Dighriri](https://www.linkedin.com/in/Leen-Dighriri)
 
 ---
-<div style="display: flex; align-items: left;">
+<div style="display: flex; align-items: center;">
 
 <div style="flex: 1;">
 
