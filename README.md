@@ -2,9 +2,7 @@
 
 # Hi, I'm Leen 👋
 
-<img src="https://i.pinimg.com/originals/71/81/f3/7181f32283146af7052e54946aaec210.gif" alt="Workspace" width="60%"/><br>
-![Profile Views](https://komarev.com/ghpvc/?username=Leen-web0&style=flat&color=green&label=PROFILE+VIEWS)
-
+<img src="https://raw.githubusercontent.com/Leen-web0/Leen-web0/main/animation%20github.gif" alt="Workspace" width="60%"/><br>
 </div>
 
 ---
