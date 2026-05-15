@@ -67,7 +67,7 @@ class About extends Me {
 [![LinkedIn](https://img.shields.io/badge/☆_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-dighriri-)
 [![Email](https://img.shields.io/badge/☆_Email-c71585?style=flat-square&logo=gmail&logoColor=white)](mailto:leenad987987333@gmail.com)
 
-🔗 **LinkedIn:** [Leen-Dighriri](https://www.linkedin.com/in/leen-dighriri-)
+
 
 ---
 
