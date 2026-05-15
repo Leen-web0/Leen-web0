@@ -27,11 +27,6 @@ class About extends Me {
   };
 }
  ```
-## ✦ about me ☆
-**Name:** Leen Abdulaziz Dighriri <br>
-**University:** Jazan University — MIS Graduate 2025 🎓 <br>
-**Location:** Saudi Arabia 🇸🇦 <br>
-**Goal:** Building my path in MIS, Data Analysis & Web Development 🌱
 
 ---
 
