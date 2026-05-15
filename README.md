@@ -56,7 +56,7 @@
 
 <div style="flex: 1;">
 
-
+<div align="left">
 ```dart
 class About extends Me { 
   const myInfo = {  
@@ -69,7 +69,7 @@ class About extends Me {
   };
 }
 ```
-
+</div>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; Currently expanding my skills in **Data Analysis & Front-End Development**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>&nbsp;&nbsp; Ask me about **MIS, Web Design, or Data Analysis**
