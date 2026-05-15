@@ -2,10 +2,7 @@
 
 # Hi, I'm Leen 👋
 
-<img src="https://raw.githubusercontent.com/Leen-web0/Leen-web0/main/animation%20github.gif" alt="Workspace" width="60%"/><br>
-</div>
-
----
+<img src="https://raw.githubusercontent.com/Leen-web0/Leen-web0/main/animation-github.gif" alt="Workspace" width="60%"/><br>
 
 ## ✦ about me ☆
 **Name:** Leen Abdulaziz Dighriri
