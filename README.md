@@ -55,7 +55,7 @@ class About extends Me {
 
 ## ✦ my projects ☆
 
-| | |
+| | | |
 |:---:|:---:|:---:|
 | 🪴 | 🎓 |  📊  |
 | Garden Design Website | Graduation Project | Construction management system project
